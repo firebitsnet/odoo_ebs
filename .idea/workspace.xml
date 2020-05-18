@@ -30,7 +30,7 @@
     <property name="DefaultOdooModelFileTemplate" value="OdooInit" />
     <property name="DefaultOdooViewFileTemplate" value="OdooViewEmpty" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/models" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/controllers" />
     <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
   </component>
   <component name="RunDashboard">
