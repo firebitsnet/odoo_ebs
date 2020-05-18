@@ -8,5 +8,8 @@
     'summary': """
        This module handels ebs payment gateway
        """,
+    'description': """
+    All Rights Reserved @ FireBits 2020
+    """,
 
 }
