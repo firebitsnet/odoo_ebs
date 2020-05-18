@@ -3,6 +3,7 @@
     <data>
 
         <menuitem id="root_menu" name="EBS"/>
+        <menuitem id="transactions_menu" name="Transactions"/>
 
     </data>
 </odoo>
