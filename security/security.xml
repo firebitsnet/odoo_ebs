@@ -2,7 +2,9 @@
 <odoo>
     <data>
 
-        <record model="ir.module.category" id="ebs_cat"></record>
+        <record model="ir.module.category" id="ebs_cat">
+            <field name="name">EBS</field>
+        </record>
 
 
     </data>
