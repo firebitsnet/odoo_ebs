@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="978e5948-8e14-4dd4-8a7d-b24a5adf6e70" name="Default Changelist" comment="" />
+    <list default="true" id="978e5948-8e14-4dd4-8a7d-b24a5adf6e70" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/views/view.xml" beforeDir="false" afterPath="$PROJECT_DIR$/views/view.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -366,7 +368,49 @@
       <option name="project" value="LOCAL" />
       <updated>1589768061854</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="Adding access rights file">
+      <created>1589768165137</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1589768165137</updated>
+    </task>
+    <task id="LOCAL-00042" summary="Adding employee access rights for test model">
+      <created>1589768236417</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1589768236417</updated>
+    </task>
+    <task id="LOCAL-00043" summary="Adding manager access rights for test model">
+      <created>1589768285089</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1589768285089</updated>
+    </task>
+    <task id="LOCAL-00044" summary="Adding security file to Odoo manifest">
+      <created>1589768316411</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1589768316411</updated>
+    </task>
+    <task id="LOCAL-00045" summary="Adding access rights file to Odoo manifest">
+      <created>1589768338372</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1589768338372</updated>
+    </task>
+    <task id="LOCAL-00046" summary="Adding action for the transactions menu">
+      <created>1589768383833</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1589768383833</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -381,12 +425,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Adding api controller class" />
-    <MESSAGE value="Adding test route" />
-    <MESSAGE value="Adding test model" />
-    <MESSAGE value="Adding view to manifest" />
-    <MESSAGE value="Adding menu to the view" />
-    <MESSAGE value="Adding menu name" />
     <MESSAGE value="Adding menu name string" />
     <MESSAGE value="Adding transactions menu" />
     <MESSAGE value="Adding security xml" />
@@ -406,6 +444,12 @@
     <MESSAGE value="Adding group implied_ids for copying employee access rights" />
     <MESSAGE value="Adding group user_id to link our users with Odoo users" />
     <MESSAGE value="Clean file" />
-    <option name="LAST_COMMIT_MESSAGE" value="Clean file" />
+    <MESSAGE value="Adding access rights file" />
+    <MESSAGE value="Adding employee access rights for test model" />
+    <MESSAGE value="Adding manager access rights for test model" />
+    <MESSAGE value="Adding security file to Odoo manifest" />
+    <MESSAGE value="Adding access rights file to Odoo manifest" />
+    <MESSAGE value="Adding action for the transactions menu" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding action for the transactions menu" />
   </component>
 </project>

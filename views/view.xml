@@ -3,7 +3,7 @@
     <data>
 
 
-        <record></record>
+        <record id="transactions_action"></record>
 
         <menuitem id="root_menu" name="EBS"/>
         <menuitem id="transactions_menu" name="Transactions"/>
