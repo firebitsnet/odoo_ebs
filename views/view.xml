@@ -3,7 +3,9 @@
     <data>
 
 
-        <record id="transactions_action" model="ir.actions.act_window"></record>
+        <record id="transactions_action" model="ir.actions.act_window">
+            <field name="name">Transactions</field>
+        </record>
 
         <menuitem id="root_menu" name="EBS"/>
         <menuitem id="transactions_menu" name="Transactions"/>
