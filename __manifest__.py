@@ -14,5 +14,6 @@
     'author': "FireBits",
     'category': 'Payment',
     'version': '13.0.1',
+    'depends': ['base', 'sale'],
 
 }
