@@ -11,7 +11,7 @@
         </record>
 
         <menuitem id="root_menu" name="EBS"/>
-        <menuitem id="transactions_menu" name="Transactions"/>
+        <menuitem id="transactions_menu" name="Transactions" action="transactions_action"/>
 
     </data>
 </odoo>
