@@ -1,2 +1,3 @@
 id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
-e1,test,model_ebs_test,odoo_ebs.group_doc_employee,1,1,1,0
+e1,test,model_ebs_test,odoo_ebs.ebs_employee,1,1,1,0
+m1,test,model_ebs_test,odoo_ebs.ebs_manager,1,1,1,1
