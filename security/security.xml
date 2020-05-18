@@ -12,7 +12,7 @@
             <field name="category_id" ref="odoo_ebs.ebs_cat"/>
         </record>
 
-        <record id="ebs_manager"></record>
+        <record id="ebs_manager" model="res.groups"></record>
 
 
 
