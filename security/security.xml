@@ -9,7 +9,7 @@
 
         <record id="ebs_employee" model="res.groups">
             <field name="name">Employee</field>
-            <field name="category_id" ref="ProjectName.ProjectName_category"/>
+            <field name="category_id" ref="odoo_ebs.ebs_cat"/>
         </record>
 
 
