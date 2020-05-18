@@ -88,34 +88,6 @@
       <option name="presentableId" value="Default" />
       <updated>1589765168839</updated>
     </task>
-    <task id="LOCAL-00001" summary="Make the module show on top">
-      <created>1589765591018</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1589765591018</updated>
-    </task>
-    <task id="LOCAL-00002" summary="Adding module website">
-      <created>1589765619011</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1589765619011</updated>
-    </task>
-    <task id="LOCAL-00003" summary="Make the module installable">
-      <created>1589765644634</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1589765644634</updated>
-    </task>
-    <task id="LOCAL-00004" summary="Make the module appear with Odoo apps">
-      <created>1589765667056</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1589765667056</updated>
-    </task>
     <task id="LOCAL-00005" summary="Add summery">
       <created>1589765750713</created>
       <option name="number" value="00005" />
@@ -410,7 +382,56 @@
       <option name="project" value="LOCAL" />
       <updated>1589768383833</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="Adding a unique id for the transaction action">
+      <created>1589768440063</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1589768440063</updated>
+    </task>
+    <task id="LOCAL-00048" summary="Adding a model for the transaction action">
+      <created>1589768472891</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1589768472891</updated>
+    </task>
+    <task id="LOCAL-00049" summary="Adding a name for the transaction action">
+      <created>1589768504935</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1589768504935</updated>
+    </task>
+    <task id="LOCAL-00050" summary="Adding a res_model for the transaction action">
+      <created>1589768575883</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1589768575883</updated>
+    </task>
+    <task id="LOCAL-00051" summary="Adding a view_type for the transaction action">
+      <created>1589768601612</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1589768601612</updated>
+    </task>
+    <task id="LOCAL-00052" summary="Adding a view_mode for the transaction action">
+      <created>1589768627165</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1589768627165</updated>
+    </task>
+    <task id="LOCAL-00053" summary="Adding the transaction action to the menu item">
+      <created>1589768661474</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1589768661475</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -425,13 +446,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Adding menu name string" />
-    <MESSAGE value="Adding transactions menu" />
-    <MESSAGE value="Adding security xml" />
-    <MESSAGE value="Adding category for security" />
-    <MESSAGE value="Adding unique id for the category" />
-    <MESSAGE value="Adding name for the category" />
-    <MESSAGE value="Adding sequence order for the category" />
     <MESSAGE value="Adding security group for employees" />
     <MESSAGE value="Adding security group model" />
     <MESSAGE value="Adding security group name" />
@@ -450,6 +464,13 @@
     <MESSAGE value="Adding security file to Odoo manifest" />
     <MESSAGE value="Adding access rights file to Odoo manifest" />
     <MESSAGE value="Adding action for the transactions menu" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding action for the transactions menu" />
+    <MESSAGE value="Adding a unique id for the transaction action" />
+    <MESSAGE value="Adding a model for the transaction action" />
+    <MESSAGE value="Adding a name for the transaction action" />
+    <MESSAGE value="Adding a res_model for the transaction action" />
+    <MESSAGE value="Adding a view_type for the transaction action" />
+    <MESSAGE value="Adding a view_mode for the transaction action" />
+    <MESSAGE value="Adding the transaction action to the menu item" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding the transaction action to the menu item" />
   </component>
 </project>
