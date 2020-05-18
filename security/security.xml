@@ -2,7 +2,7 @@
 <odoo>
     <data>
 
-
+        <record model="ir.module.category"></record>
 
 
     </data>
