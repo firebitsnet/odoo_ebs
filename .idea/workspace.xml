@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="978e5948-8e14-4dd4-8a7d-b24a5adf6e70" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/view.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/controllers/api.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,6 +15,8 @@
       <list>
         <option value="Python Script" />
         <option value="OdooViewEmpty" />
+        <option value="OdooInit" />
+        <option value="OdooController" />
       </list>
     </option>
   </component>
@@ -27,7 +28,7 @@
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="PropertiesComponent">
-    <property name="DefaultOdooModelFileTemplate" value="OdooInit" />
+    <property name="DefaultOdooModelFileTemplate" value="OdooController" />
     <property name="DefaultOdooViewFileTemplate" value="OdooViewEmpty" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/controllers" />
@@ -149,7 +150,42 @@
       <option name="project" value="LOCAL" />
       <updated>1589765876165</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Add view xml file in views folder">
+      <created>1589765992917</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1589765992917</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Add init point of python and importing models folder">
+      <created>1589766077049</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1589766077049</updated>
+    </task>
+    <task id="LOCAL-00013" summary="importing controllers folder">
+      <created>1589766093803</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1589766093803</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Adding init and importing models model">
+      <created>1589766140697</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1589766140697</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Adding init and importing controller python class">
+      <created>1589766188201</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1589766188201</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -174,6 +210,11 @@
     <MESSAGE value="Add category" />
     <MESSAGE value="Add version" />
     <MESSAGE value="Add dependency" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add dependency" />
+    <MESSAGE value="Add view xml file in views folder" />
+    <MESSAGE value="Add init point of python and importing models folder" />
+    <MESSAGE value="importing controllers folder" />
+    <MESSAGE value="Adding init and importing models model" />
+    <MESSAGE value="Adding init and importing controller python class" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding init and importing controller python class" />
   </component>
 </project>
