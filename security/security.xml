@@ -4,6 +4,7 @@
 
         <record model="ir.module.category" id="ebs_cat">
             <field name="name">EBS</field>
+            <field name="sequence">1</field>
         </record>
 
 

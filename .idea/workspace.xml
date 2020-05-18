@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="978e5948-8e14-4dd4-8a7d-b24a5adf6e70" name="Default Changelist" comment="" />
+    <list default="true" id="978e5948-8e14-4dd4-8a7d-b24a5adf6e70" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/security/security.xml" beforeDir="false" afterPath="$PROJECT_DIR$/security/security.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +18,7 @@
         <option value="OdooInit" />
         <option value="OdooController" />
         <option value="OdooModel" />
+        <option value="OdooViewSecurity" />
       </list>
     </option>
   </component>
@@ -218,7 +221,63 @@
       <option name="project" value="LOCAL" />
       <updated>1589766605827</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Adding menu to the view">
+      <created>1589767372397</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1589767372397</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Adding menu name">
+      <created>1589767395425</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1589767395425</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Adding menu name string">
+      <created>1589767415281</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1589767415281</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Adding transactions menu">
+      <created>1589767450217</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1589767450217</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Adding security xml">
+      <created>1589767518391</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1589767518391</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Adding category for security">
+      <created>1589767533052</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1589767533052</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Adding unique id for the category">
+      <created>1589767558190</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1589767558190</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Adding name for the category">
+      <created>1589767586213</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1589767586213</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -233,8 +292,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Make the module show on top" />
-    <MESSAGE value="Adding module website" />
     <MESSAGE value="Make the module installable" />
     <MESSAGE value="Make the module appear with Odoo apps" />
     <MESSAGE value="Add summery" />
@@ -252,6 +309,14 @@
     <MESSAGE value="Adding test route" />
     <MESSAGE value="Adding test model" />
     <MESSAGE value="Adding view to manifest" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding view to manifest" />
+    <MESSAGE value="Adding menu to the view" />
+    <MESSAGE value="Adding menu name" />
+    <MESSAGE value="Adding menu name string" />
+    <MESSAGE value="Adding transactions menu" />
+    <MESSAGE value="Adding security xml" />
+    <MESSAGE value="Adding category for security" />
+    <MESSAGE value="Adding unique id for the category" />
+    <MESSAGE value="Adding name for the category" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding name for the category" />
   </component>
 </project>
