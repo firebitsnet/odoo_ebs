@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="978e5948-8e14-4dd4-8a7d-b24a5adf6e70" name="Default Changelist" comment="" />
+    <list default="true" id="978e5948-8e14-4dd4-8a7d-b24a5adf6e70" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/__manifest__.py" beforeDir="false" afterPath="$PROJECT_DIR$/__manifest__.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +21,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1c3lTxra1quhVleVJKDsbbUAg2t" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="C:/Program Files (x86)/Odoo 12.0/server/odoo-bin" />
@@ -70,6 +73,53 @@
       <option name="presentableId" value="Default" />
       <updated>1589765168839</updated>
     </task>
+    <task id="LOCAL-00001" summary="Make the module show on top">
+      <created>1589765591018</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1589765591018</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Adding module website">
+      <created>1589765619011</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1589765619011</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Make the module installable">
+      <created>1589765644634</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1589765644634</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Make the module appear with Odoo apps">
+      <created>1589765667056</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1589765667056</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Make the module show on top" />
+    <MESSAGE value="Adding module website" />
+    <MESSAGE value="Make the module installable" />
+    <MESSAGE value="Make the module appear with Odoo apps" />
+    <option name="LAST_COMMIT_MESSAGE" value="Make the module appear with Odoo apps" />
   </component>
 </project>

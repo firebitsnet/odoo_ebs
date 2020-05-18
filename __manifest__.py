@@ -5,5 +5,8 @@
     'website': 'https://www.firebits.net/',
     'installable': True,
     'application': True,
+    'summary': """
+       This module handels ebs payment gateway
+       """,
 
 }
