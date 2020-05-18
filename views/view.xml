@@ -2,6 +2,9 @@
 <odoo>
     <data>
 
+
+        <record></record>
+
         <menuitem id="root_menu" name="EBS"/>
         <menuitem id="transactions_menu" name="Transactions"/>
 
