@@ -277,7 +277,49 @@
       <option name="project" value="LOCAL" />
       <updated>1589767586213</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="Adding sequence order for the category">
+      <created>1589767599540</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1589767599540</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Adding security group for employees">
+      <created>1589767681371</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1589767681371</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Adding security group model">
+      <created>1589767698968</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1589767698968</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Adding security group name">
+      <created>1589767711913</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1589767711913</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Adding security group category">
+      <created>1589767725588</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1589767725588</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Renaming category">
+      <created>1589767822905</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1589767822905</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -292,12 +334,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Make the module installable" />
-    <MESSAGE value="Make the module appear with Odoo apps" />
-    <MESSAGE value="Add summery" />
-    <MESSAGE value="Add description" />
-    <MESSAGE value="Add author" />
-    <MESSAGE value="Add category" />
     <MESSAGE value="Add version" />
     <MESSAGE value="Add dependency" />
     <MESSAGE value="Add view xml file in views folder" />
@@ -317,6 +353,12 @@
     <MESSAGE value="Adding category for security" />
     <MESSAGE value="Adding unique id for the category" />
     <MESSAGE value="Adding name for the category" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding name for the category" />
+    <MESSAGE value="Adding sequence order for the category" />
+    <MESSAGE value="Adding security group for employees" />
+    <MESSAGE value="Adding security group model" />
+    <MESSAGE value="Adding security group name" />
+    <MESSAGE value="Adding security group category" />
+    <MESSAGE value="Renaming category" />
+    <option name="LAST_COMMIT_MESSAGE" value="Renaming category" />
   </component>
 </project>
