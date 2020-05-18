@@ -11,5 +11,6 @@
     'description': """
     All Rights Reserved @ FireBits 2020
     """,
+    'author': "FireBits",
 
 }
