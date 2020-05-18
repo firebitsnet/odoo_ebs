@@ -7,7 +7,7 @@
             <field name="sequence">1</field>
         </record>
 
-        <record id="ebs_employee"></record>
+        <record id="ebs_employee" model="res.groups"></record>
 
 
     </data>
