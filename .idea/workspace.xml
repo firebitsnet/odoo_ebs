@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="978e5948-8e14-4dd4-8a7d-b24a5adf6e70" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/security/security.xml" beforeDir="false" afterPath="$PROJECT_DIR$/security/security.xml" afterDir="false" />
-    </list>
+    <list default="true" id="978e5948-8e14-4dd4-8a7d-b24a5adf6e70" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -319,7 +317,56 @@
       <option name="project" value="LOCAL" />
       <updated>1589767822905</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="Adding group for managers">
+      <created>1589767890254</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1589767890254</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Adding group model">
+      <created>1589767905841</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1589767905841</updated>
+    </task>
+    <task id="LOCAL-00036" summary="Adding group name">
+      <created>1589767921220</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1589767921220</updated>
+    </task>
+    <task id="LOCAL-00037" summary="Adding group category">
+      <created>1589767970974</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1589767970974</updated>
+    </task>
+    <task id="LOCAL-00038" summary="Adding group implied_ids for copying employee access rights">
+      <created>1589768016700</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1589768016700</updated>
+    </task>
+    <task id="LOCAL-00039" summary="Adding group user_id to link our users with Odoo users">
+      <created>1589768044126</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1589768044126</updated>
+    </task>
+    <task id="LOCAL-00040" summary="Clean file">
+      <created>1589768061854</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1589768061854</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -334,13 +381,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add version" />
-    <MESSAGE value="Add dependency" />
-    <MESSAGE value="Add view xml file in views folder" />
-    <MESSAGE value="Add init point of python and importing models folder" />
-    <MESSAGE value="importing controllers folder" />
-    <MESSAGE value="Adding init and importing models model" />
-    <MESSAGE value="Adding init and importing controller python class" />
     <MESSAGE value="Adding api controller class" />
     <MESSAGE value="Adding test route" />
     <MESSAGE value="Adding test model" />
@@ -359,6 +399,13 @@
     <MESSAGE value="Adding security group name" />
     <MESSAGE value="Adding security group category" />
     <MESSAGE value="Renaming category" />
-    <option name="LAST_COMMIT_MESSAGE" value="Renaming category" />
+    <MESSAGE value="Adding group for managers" />
+    <MESSAGE value="Adding group model" />
+    <MESSAGE value="Adding group name" />
+    <MESSAGE value="Adding group category" />
+    <MESSAGE value="Adding group implied_ids for copying employee access rights" />
+    <MESSAGE value="Adding group user_id to link our users with Odoo users" />
+    <MESSAGE value="Clean file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Clean file" />
   </component>
 </project>
