@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="978e5948-8e14-4dd4-8a7d-b24a5adf6e70" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/views/view.xml" beforeDir="false" afterPath="$PROJECT_DIR$/views/view.xml" afterDir="false" />
-    </list>
+    <list default="true" id="978e5948-8e14-4dd4-8a7d-b24a5adf6e70" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,13 +85,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1589765168839</updated>
-    </task>
-    <task id="LOCAL-00005" summary="Add summery">
-      <created>1589765750713</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1589765750714</updated>
     </task>
     <task id="LOCAL-00006" summary="Add description">
       <created>1589765777316</created>
@@ -431,7 +422,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589768661475</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="Clean file">
+      <created>1589768677129</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1589768677129</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -457,7 +455,6 @@
     <MESSAGE value="Adding group category" />
     <MESSAGE value="Adding group implied_ids for copying employee access rights" />
     <MESSAGE value="Adding group user_id to link our users with Odoo users" />
-    <MESSAGE value="Clean file" />
     <MESSAGE value="Adding access rights file" />
     <MESSAGE value="Adding employee access rights for test model" />
     <MESSAGE value="Adding manager access rights for test model" />
@@ -471,6 +468,7 @@
     <MESSAGE value="Adding a view_type for the transaction action" />
     <MESSAGE value="Adding a view_mode for the transaction action" />
     <MESSAGE value="Adding the transaction action to the menu item" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding the transaction action to the menu item" />
+    <MESSAGE value="Clean file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Clean file" />
   </component>
 </project>
